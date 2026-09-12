@@ -1,0 +1,2 @@
+n=4 N=2148 f2=3676204  tr(A^3)=5515021140  touching ordered pairs: shared-vertex=583536 vertex-on-edge=204088 total=787624  => f_open(n,2)=2888580
+n=4 hom(K4,I_n) = 7605904868572

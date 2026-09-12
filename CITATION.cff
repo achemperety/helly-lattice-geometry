@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the preprint below."
+title: "Helly-Type Combinatorial Configurations of Lattice Triangles: Exact Structure and Asymptotics"
+abstract: >-
+  Source, computational verification scripts and exact data for the paper.
+  An Euler-characteristic transfer theorem encodes the counting function
+  f(n,k) of intersecting families of lattice triangles in a single signed
+  depth spectrum of the grid line arrangement; the continuum constant p_2 is
+  evaluated exactly as 191/300; and the closed/open discrepancy is shown to be
+  of exact order n^10 log n for k = 2.
+authors:
+  - family-names: Baiandin
+    given-names: Ruslan
+    affiliation: "Graduate School of Economics and Management, Ural Federal University, Yekaterinburg, Russia"
+version: "2.0.0"
+date-released: 2026-09-12
+license: MIT
+repository-code: "https://github.com/achemperety/helly-lattice-geometry"
+doi: 10.5281/zenodo.22680094
+keywords:
+  - Helly's theorem
+  - lattice points
+  - line arrangements
+  - Euler characteristic
+  - simplicial depth
+  - integral geometry
+  - exact enumeration
+preferred-citation:
+  type: article
+  title: "Helly-Type Combinatorial Configurations of Lattice Triangles: Exact Structure and Asymptotics"
+  authors:
+    - family-names: Baiandin
+      given-names: Ruslan
+  year: 2026
+  doi: 10.5281/zenodo.22680094

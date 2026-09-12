@@ -1,0 +1,24 @@
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# compiled binaries
+helly_defect
+mc_pk_hp
+a.out
+*.o
+
+# Python
+__pycache__/
+*.pyc
+
+# local scratch
+/tmp/
+*.png

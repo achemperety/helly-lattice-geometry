@@ -1,0 +1,18 @@
+# output of code/p2_exact.py  (all assertions passed)
+=== consistency checks ===
+  normalisation          value = 1
+  E[alpha]               value = 1/2
+  E[alpha^2]             value = 133/432        <- equivalent to Sylvester 25/36
+=== new moments ===
+  E[alpha^3]             value = 61/288
+  E[alpha^4]             value = 281/1800
+  E[alpha^2(1-alpha)^2]  value = 109/2700
+=== results ===
+  p_2                 = 191/300 = 0.63666666666666666667
+  (2/pi for contrast) =           0.63661977236758134308   difference 0.0000469
+  E[h_4] = 133/36    E[h_5] = 305/72    E[h_6] = 281/60
+  E[A_3] = 11/144    E[A_4] = 11/72     E[A_5] = 79/360
+  leading coefficient of f(n,2):  p_2/6^2 = 191/10800
+
+# independent Monte Carlo confirmation, code/mc_pk_hp.c, 6e7 samples, seed 777:
+  p_2 = 0.636709517 +/- 0.000062090   deviation from 191/300: 0.69 sigma

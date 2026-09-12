@@ -1,0 +1,2 @@
+# samples per k = 8000000, batch = 50000, seed = 20260909
+k=2: p_k = 0.63658  +/- 0.00017  (95%: [0.6362, 0.6369])   lower bound 4^-k = 0.06250   [40s]   Wendel check P(centre in T) = 0.2503 (exact 0.25)

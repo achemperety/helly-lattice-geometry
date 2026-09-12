@@ -1,0 +1,1 @@
+n=7 N=40120 f2=1150885648  tr(A^3)=27944094751144  touching ordered pairs: shared-vertex=84551872 vertex-on-edge=52466112 total=137017984  => f_open(n,2)=1013867664
