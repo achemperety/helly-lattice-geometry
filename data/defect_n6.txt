@@ -1,0 +1,1 @@
+n=6 N=17600 f2=227240104  tr(A^3)=2501508150344  touching ordered pairs: shared-vertex=21035840 vertex-on-edge=11598304 total=32634144  => f_open(n,2)=194605960

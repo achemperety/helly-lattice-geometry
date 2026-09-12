@@ -1,0 +1,1 @@
+n=8 N=82608 f2=4788100488  touching ordered pairs: shared-vertex=285340272 vertex-on-edge=198965632 total=484305904  => f_open(n,2)=4303794584

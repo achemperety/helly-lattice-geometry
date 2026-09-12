@@ -1,0 +1,9 @@
+# output of code/check_deepest.py 1 2 3 4 5 6 7 8
+n=1: max depth 4, cells at max: 1, dims [0], w=1, points=[(0.5, 0.5)]
+n=2: max depth 56, cells at max: 1, dims [0], w=1, points=[(1.0, 1.0)]
+n=3: max depth 240, cells at max: 5, dims [0], w=5, points=[(1.0, 1.0), (1.0, 2.0), (1.5, 1.5), (2.0, 1.0), (2.0, 2.0)]
+n=4: max depth 1016, cells at max: 1, dims [0], w=1, points=[(2.0, 2.0)]
+n=5: max depth 2523, cells at max: 4, dims [0], w=4, points=[(2.0, 2.0), (2.0, 3.0), (3.0, 2.0), (3.0, 3.0)]
+n=6: max depth 6656, cells at max: 1, dims [0], w=1, points=[(3.0, 3.0)]
+n=7: max depth 13316, cells at max: 4, dims [0], w=4, points=[(3.0, 3.0), (3.0, 4.0), (4.0, 3.0), (4.0, 4.0)]
+n=8: max depth 27776, cells at max: 1, dims [0], w=1, points=[(4.0, 4.0)]
